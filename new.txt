@@ -1,8 +1,8 @@
 hello
 how are you
 im good
-<<<<<<< HEAD
+
 new branch
 =======
 new branch created
->>>>>>> branch1
+
